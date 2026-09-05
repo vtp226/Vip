@@ -1,9 +1,0 @@
-{
-    "name": "user/magz-masnooi-bot",
-    "description": "ربات تلگرام مغز مصنوعی",
-    "require": {
-        "php": ">=8.1",
-        "ext-curl": "*",
-        "ext-json": "*"
-    }
-}
